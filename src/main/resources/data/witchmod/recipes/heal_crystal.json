@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "SGS",
+    "PSP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:blaze_powder"
+    },
+    "S": {
+      "item": "minecraft:red_stained_glass"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "item": "witchmod:heal_crystal",
+    "count": 1
+  }
+}

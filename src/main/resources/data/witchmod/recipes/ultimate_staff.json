@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CFC",
+    "CSC",
+    "CTC"
+  ],
+  "key": {
+    "F": {
+      "item": "witchmod:heal_staff"
+    },
+    "S": {
+      "item": "witchmod:speed_staff"
+    },
+    "T": {
+      "item": "witchmod:jump_staff"
+    },
+    "C": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "witchmod:ultimate_staff",
+    "count": 1
+  }
+}

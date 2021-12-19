@@ -1,0 +1,11 @@
+{
+  "entity.witchmod.rideable_broom": "Broomstick",
+  "entity.witchmod.witch_boss": "Evil Witch",
+  "item.witchmod.heal_crystal": "Health Crystal",
+  "item.witchmod.speed_crystal": "Swiftness Crystal",
+  "item.witchmod.jump_crystal": "Leaping Crystal",
+  "item.witchmod.heal_staff": "Staff of Healing",
+  "item.witchmod.speed_staff": "Staff of Swiftness",
+  "item.witchmod.jump_staff": "Staff of Leaping",
+  "item.witchmod.ultimate_staff": "The Ultimate Staff"
+}
